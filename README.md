@@ -10,7 +10,7 @@ go build -o zombie_daemon cmd/zombie_daemon.go
 
 ## Usage
 
-### Start daeёmon
+### Start daemon
 ```bash
 sudo ./zombie_daemon
 ```
